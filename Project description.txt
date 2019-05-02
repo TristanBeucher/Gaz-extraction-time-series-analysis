@@ -1,0 +1,4 @@
+The main goal of this project is to use typical time serie analysis tools to study the evolution
+of natural gaz extraction in France from 1990 to march 2018. 
+
+The dataset comes from the website of the French national statistic bureau (INSEE).
